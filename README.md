@@ -1,5 +1,5 @@
-# Log-in-Form-with-PHP
-Log in form with database connection using PHP
+# Registration-Form-with-PHP
+Registration form with database connection using PHP
 
 ### Step 1:
 Open an IDE or Editor like VS Code

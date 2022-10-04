@@ -20,5 +20,9 @@ Now create new file (dbc.php) and create a connection with the database
 
 ### Step 6:
 After creating a database connection start to do some coding how to take the values form the form.
+##### Create a PHP file (submit.php)
+
+### Step 7:
+Create a new file named (summary.php) when you submit the form it will display your Registration Information
 
 
